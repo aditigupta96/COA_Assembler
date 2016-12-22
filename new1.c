@@ -1,7 +1,3 @@
-//ADITI (14UCS004)
-//ANJALI AGRAWAL (14UCS013)
-//YASH AGGARWAL (14UCC043)
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
